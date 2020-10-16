@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Camel SB Examples :: Spring Boot
+Implementation-Version: 3.5.0
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: Camel SB Examples :: Spring Boot
+Build-Jdk-Spec: 1.8
+Specification-Version: 3.5
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: The Apache Software Foundation
+
